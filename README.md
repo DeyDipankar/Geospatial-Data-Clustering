@@ -1,3 +1,3 @@
 # Geospatial-Data-Clustering
 
-![geospatial plot](../images/geospatial.jpeg)
+![geospatial plot](../images/geospatial.jpg)
