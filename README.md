@@ -1,3 +1,3 @@
 # Geospatial-Data-Clustering
 
-![geospatial plot]("./images/geospatial.jpg")
+![geospatial plot]("https://github.com/DeyDipankar/Geospatial-Data-Clustering/blob/dev/images/geospatial.JPG?raw=true")
